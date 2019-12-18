@@ -25,7 +25,7 @@ li a {text-decoration: none; padding-right:5px;}
 #google-logo{
     padding-bottom: 30px;
     text-align: center;
-    /* no width */
+    width:auto;
 }
 input#searchbox {
     width: 100%;
